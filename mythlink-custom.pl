@@ -86,6 +86,9 @@
         'Danger Mouse',
         'Hey Duggee',
         'In the Night Garden',
+        'Meet the Kittens',
+        'Meet the Pups',
+        'The Adventures of Abney & Teal',
         'Thunderbirds Are Go',
     );
 
